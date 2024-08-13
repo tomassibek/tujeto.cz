@@ -1,1 +1,2 @@
 # tujeto.cz
+URL zkracovač
